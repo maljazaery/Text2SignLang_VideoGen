@@ -1,4 +1,4 @@
-# Sign Language Video Translator
+# Sign Language Video Generator
 
 This project converts English text into sign language videos by utilizing Azure OpenAI for text processing and a dataset of sign language video clips. The system automatically selects and merges relevant video clips to create a continuous sign language video for any given input sentence.
 
