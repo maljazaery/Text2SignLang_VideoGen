@@ -4,7 +4,7 @@ This project converts English text into sign language videos by utilizing Azure 
 
 ## Pipeline Overview
 
-![Pipeline Diagram](pipeline.png)
+![Pipeline Diagram](pipline.png)
 
 
 1. **Input**: The user enters an English sentence.
